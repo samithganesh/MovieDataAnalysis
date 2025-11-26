@@ -7,9 +7,9 @@ Movie Data Analysis Dashboard 🎬
 - Opening index.html directly in the browser will not work because Flask is used to serve the data API's
 1. If needed install the needed things:
 pip install flask pandas numpy
-2. Run the flask server
+2. Run the flask server:
 python (or python3) MovieExplorer.py
-3. Open the site
+3. Open the site:
 Once the server starts, click on the http link. The dashboard will load with charts and tables
 
 **Why Flask?**
